@@ -1,0 +1,9 @@
+{
+  "name": "hlte-fetch",
+  "version": "1.0.0",
+  "description": "fetch for hlte.net",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Ryan Joseph <ryan.joseph@gmail.com>",
+  "license": "MIT"
+}
