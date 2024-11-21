@@ -1,7 +1,11 @@
 {
   "name": "hlte-fetch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "fetch for hlte.net",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hlte-net/hlte-fetch"
+  },
   "main": "index.js",
   "scripts": {},
   "author": "Ryan Joseph <ryan.joseph@gmail.com>",
